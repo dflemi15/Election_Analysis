@@ -31,8 +31,7 @@ The purpose of the challenege was to add the voting data as collected for each c
   
   Denever had the largest number of votes which totalled to 306,055 (82.8%). The code used to determine this number can be viewed above.
   
-- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received. 
-- Which candidate won the election, what was their vote     count, and what was their percentage of the total votes?
+- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received. Which candidate won the election, what was their vote     count, and what was their percentage of the total votes?
 
   Raymon Anthony Doane received 11,606 votes(3.1%) which put him in third place. Charles Casper Stockham received 85,213 votes (23%) which was second place. Diane Degetta wo the election by  a wide  margin that totalled to 272,892 votes (73.8%)
 
