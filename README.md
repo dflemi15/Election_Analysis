@@ -11,6 +11,7 @@ We have been tasked with providing analysis of the election results of a local c
 
 # Resources
 Data Source: election_results.csv
+
 Software: Python (3.6.1), Visual Studio Code, GitBash
 
 # Challenge Overview
