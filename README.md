@@ -18,6 +18,13 @@ Software: Python (3.6.1), Visual Studio Code, GitBash
 The purpose of the challenege was to add the voting data as collected for each county. This includes the total votes submitted in addition to the percentage of votes submitted for each county. We then used this data to determine the largest voter turnout amongst the counties that were analyzed. This analysis was done so that we could determine the full outome of the election and build a framework that be used for future elections. 
 
 # Election results
+- How many votes were cast in this congressional election?
+  Our analysis indicates that a total of 369,711 votes were casts during the election.  
 
+- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
+- Which county had the largest number of votes?
+- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 # Challenge Summary
