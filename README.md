@@ -16,5 +16,6 @@ Software: Python (3.6.1), Visual Studio Code, GitBash
 
 # Challenge Overview
 
+# Election results
 
 # Challenge Summary
